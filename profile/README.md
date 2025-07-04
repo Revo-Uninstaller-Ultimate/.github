@@ -59,7 +59,7 @@ Revo Uninstaller Pro is a reliable and efficient tool designed to thoroughly uni
 
 ### 🖼 Preview
 
-![Screenshot1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Dr3zaWE-xmQnsTM1Xz7Klb4mVVLSYnSXgA&s)  
+![Screenshot1](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens-5/windows-apps.png)  
 ![Screenshot2](https://f057a20f961f56a72089-b74530d2d26278124f446233f95622ef.ssl.cf1.rackcdn.com/site/screens/revo-uninstaller-free.png)
 
 ---
